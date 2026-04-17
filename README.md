@@ -1,8 +1,10 @@
-# E-MU 2MB EOS FlashROM for all classic EIV/E4 models (non-Ultra)
+# E-MU 2MB EOS FlashROM for all classic EIV/E4 models
+
+Allows updating your classic E-MU to EOS 4.x
 
 ![PCB mockup](assets/emuclassic_2MB_mockup.png)
 
-Allows updating your classic E-MU to EOS 4.x
+[![Watch the video](https://img.youtube.com/vi/4M1oQO-LoRY/0.jpg)](https://www.youtube.com/watch?v=4M1oQO-LoRY)
 
 > [!WARNING]
 > This is a prototype and it has several flaws! I'm not responsible for any damage it may cause to your precious E-MU. Please don't attempt this project if you don't know what you're doing! I offer no support for troubleshooting.
